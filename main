@@ -3,6 +3,6 @@ getgenv().Games = {
   }
   
   getgenv().Unknown = {
-   "https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/Dragon-Adventures",
-   "https://raw.githubusercontent.com/1201for/dragonadventures/main/FUCK", 
+   "https://github.com/SortSad/Dagm1/blob/ba8d447839e221d58a1ac474bf06144e56dfbf94/Dargon1",
+   "https://github.com/SortSad/Dagm1/blob/ba8d447839e221d58a1ac474bf06144e56dfbf94/Dargon2", 
    }
