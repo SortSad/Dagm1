@@ -1,5 +1,5 @@
 getgenv().Games = {
-  [3297964905] = "https://raw.githubusercontent.com/1201for/dragonadventures/main/ui",
+  [3297964905] = "https://github.com/SortSad/Dagm1/blob/aaab8bc9525e5c3a9314f961dab0b31cae585648/Dargon.ui",
   }
   
   getgenv().Unknown = {
