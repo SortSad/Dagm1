@@ -1,0 +1,8 @@
+getgenv().Games = {
+  [3297964905] = "https://raw.githubusercontent.com/1201for/dragonadventures/main/ui",
+  }
+  
+  getgenv().Unknown = {
+   "https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/Dragon-Adventures",
+   "https://raw.githubusercontent.com/1201for/dragonadventures/main/FUCK", 
+   }
