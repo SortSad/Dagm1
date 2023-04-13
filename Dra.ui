@@ -32,8 +32,8 @@ local Pcall = pcall(function()
     end 
 end)
 
-if isfile("V.G Hub//" .. Name) and readfile("V.G Hub//" .. Name) then
-    Settings = HttpService:JSONDecode(readfile("V.G Hub//" .. Name))
+if isfile("negga Hub//" .. Name) and readfile("negga Hub//" .. Name) then
+    Settings = HttpService:JSONDecode(readfile("negga Hub//" .. Name))
 end 
 
 local Save = function()
