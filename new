@@ -8,7 +8,6 @@ _G.SendLPPWebhook = true
 _G.SendMPWebhook = true
 _G.SendMCPWebhook = true
 _G.SendBPWebhook = true
-
 spawn(function()
     pcall(function()
         while task.wait() do
